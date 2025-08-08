@@ -1,0 +1,4 @@
+public class intro
+
+interpreter - interpreted lang - python
+complier - compiled lang - java, c

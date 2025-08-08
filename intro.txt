@@ -2,3 +2,16 @@ public class intro
 
 interpreter - interpreted lang - python
 complier - compiled lang - java, c
+
+Git, Github
+initialize....git innit
+repository(repo/folder)
+commit... accumulates the changes, code ... git add "name of file' ...
+//To track
+git add .
+//To commit
+git commit m-"message"
+//To push
+git push
+track... any changes, monitoring
+push

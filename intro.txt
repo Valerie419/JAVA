@@ -10,7 +10,7 @@ commit... accumulates the changes, code ... git add "name of file' ...
 //To track
 git add .
 //To commit
-git commit m-"message"
+git commit -m"message"
 //To push
 git push
 track... any changes, monitoring

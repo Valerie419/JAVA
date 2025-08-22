@@ -10,6 +10,11 @@ public class variable{
 
         // declaration and initialization
         // VARIABLE USAGE
+        // byte -128 to 127
+        // short -32,768 to 32767
+        // int -2,147,483,648 to 2,147,483,647
+        // long -9,223,372,036
+
         int num = 12;
         System.out.println(num);
 

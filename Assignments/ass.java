@@ -2,10 +2,10 @@ package Assignments;
 import java.util.Scanner;
 public class ass {
     public static void main(String[] args) {
-       Scanner scanner = new Scanner(System.in);
+       Scanner newscanner = new Scanner(System.in);
 
        System.out.println("Enter your birth year :");
-       int myYear = scanner.nextInt();
+       int myYear = newscanner.nextInt();
 
        int currentYear = java.time.Year.now().getValue();
 

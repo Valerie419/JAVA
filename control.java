@@ -8,7 +8,7 @@ public class control {
             System.out.println("you are tall");
         }
         else if (height > 3.5){
-            System.out.println("you are of meduim height");
+            System.out.println("you are of medium height");
         }
         else{
             System.out.println("you are short");
